@@ -1,0 +1,35 @@
+{
+  "des": "调用成功",
+  "isSuc": true,
+  "datas": {
+    "cName": "比特币中国",
+    "coinId": 1,
+    "coinName": "比特币",
+    "coinSign": "btc",
+    "exeByRate": 1,
+    "isRecomm": 0,
+    "marketValue": "79147781417",
+    "moneyType": 1,
+    "name": "btcchina",
+    "symbol": "btcchinabtccny",
+    "ticker": {
+      "buy": "30600.00",
+      "buydollar": "4666.63",
+      "date": 1504267843,
+      "dollar": "4668.15",
+      "high": "30800.00",
+      "highdollar": "4697.13",
+      "last": "30609.99",
+      "low": "29500.00",
+      "lowdollar": "4498.87",
+      "open": "29850",
+      "prev_close": "29850",
+      "riseRate": "2.90",
+      "sell": "30610.00",
+      "selldollar": "4668.15",
+      "vol": "12976.633",
+      "vwap": "30230.62"
+    },
+    "type": 0
+  }
+}

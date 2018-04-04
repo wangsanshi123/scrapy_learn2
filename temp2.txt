@@ -1,0 +1,1 @@
+{"status":"ACTIVE","campaignId":"5336676177","style":{"placementLayout":"300x250","font":"Open Sans, sans-serif;","titleColor":"#007509","collapse":true,"minNumberOfItems":10,"layout":{"width":"300","height":"250"}},"searchQuery":{"keyword":"lg v30","categoryIds":["15032"],"marketplaceId":"EBAY-US"},"userRetargeting":false}

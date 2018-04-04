@@ -1,0 +1,705 @@
+{
+  "url": "http:\/\/proxy.mimvp.com",
+  "result": [
+    {
+      "check_total_count": 4,
+      "check_success_ratio": 1,
+      "check_success_count": 4,
+      "ip:port": "36.67.109.15:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "156.220.156.86:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 1,
+      "check_success_count": 2,
+      "ip:port": "62.84.66.39:27410",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 165,
+      "check_success_ratio": 1,
+      "check_success_count": 165,
+      "ip:port": "52.44.16.168:3129",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 1,
+      "check_success_count": 2,
+      "ip:port": "109.121.161.171:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 5,
+      "check_success_ratio": 0.6,
+      "check_success_count": 3,
+      "ip:port": "185.141.164.8:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 224,
+      "check_success_ratio": 0.95982142857143,
+      "check_success_count": 215,
+      "ip:port": "103.76.50.182:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "46.176.101.197:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 13,
+      "check_success_ratio": 1,
+      "check_success_count": 13,
+      "ip:port": "45.64.164.66:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "110.77.192.79:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 3,
+      "check_success_ratio": 1,
+      "check_success_count": 3,
+      "ip:port": "185.108.167.74:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 0.5,
+      "check_success_count": 1,
+      "ip:port": "108.179.199.2:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 26,
+      "check_success_ratio": 1,
+      "check_success_count": 26,
+      "ip:port": "196.46.179.236:53281",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 3,
+      "check_success_ratio": 1,
+      "check_success_count": 3,
+      "ip:port": "209.159.156.199:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 119,
+      "check_success_ratio": 0.9327731092437,
+      "check_success_count": 111,
+      "ip:port": "138.197.154.98:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 20,
+      "check_success_ratio": 0.75,
+      "check_success_count": 15,
+      "ip:port": "103.38.89.101:3128",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 21,
+      "check_success_ratio": 0.9047619047619,
+      "check_success_count": 19,
+      "ip:port": "200.120.195.140:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 1,
+      "check_success_count": 2,
+      "ip:port": "86.162.42.234:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 10,
+      "check_success_ratio": 0.9,
+      "check_success_count": 9,
+      "ip:port": "180.250.3.52:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 9,
+      "check_success_ratio": 1,
+      "check_success_count": 9,
+      "ip:port": "103.72.7.124:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "186.226.168.218:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 53,
+      "check_success_ratio": 0.88679245283019,
+      "check_success_count": 47,
+      "ip:port": "62.84.66.39:1712",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 4,
+      "check_success_ratio": 1,
+      "check_success_count": 4,
+      "ip:port": "196.40.124.62:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 25,
+      "check_success_ratio": 1,
+      "check_success_count": 25,
+      "ip:port": "188.211.227.37:53281",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 0.5,
+      "check_success_count": 1,
+      "ip:port": "186.91.222.58:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "103.35.171.117:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 147,
+      "check_success_ratio": 0.97278911564626,
+      "check_success_count": 143,
+      "ip:port": "134.213.208.193:4444",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 195,
+      "check_success_ratio": 0.93846153846154,
+      "check_success_count": 183,
+      "ip:port": "103.12.246.10:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 95,
+      "check_success_ratio": 0.88421052631579,
+      "check_success_count": 84,
+      "ip:port": "110.37.217.254:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 221,
+      "check_success_ratio": 1,
+      "check_success_count": 221,
+      "ip:port": "54.79.47.128:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 43,
+      "check_success_ratio": 0.95348837209302,
+      "check_success_count": 41,
+      "ip:port": "88.198.39.58:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 25,
+      "check_success_ratio": 0.84,
+      "check_success_count": 21,
+      "ip:port": "97.72.159.3:87",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 3,
+      "check_success_ratio": 1,
+      "check_success_count": 3,
+      "ip:port": "190.217.6.121:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "117.54.224.7:3129",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 85,
+      "check_success_ratio": 0.97647058823529,
+      "check_success_count": 83,
+      "ip:port": "46.44.34.64:8081",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 5,
+      "check_success_ratio": 1,
+      "check_success_count": 5,
+      "ip:port": "104.199.175.52:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 0.5,
+      "check_success_count": 1,
+      "ip:port": "200.84.175.36:3128",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 239,
+      "check_success_ratio": 0.99581589958159,
+      "check_success_count": 238,
+      "ip:port": "138.68.173.29:3128",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 128,
+      "check_success_ratio": 0.953125,
+      "check_success_count": 122,
+      "ip:port": "103.1.94.144:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 98,
+      "check_success_ratio": 0.87755102040816,
+      "check_success_count": 86,
+      "ip:port": "188.32.183.42:8081",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 66,
+      "check_success_ratio": 0.98484848484848,
+      "check_success_count": 65,
+      "ip:port": "43.250.83.24:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 41,
+      "check_success_ratio": 0.97560975609756,
+      "check_success_count": 40,
+      "ip:port": "177.220.130.58:3128",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 6,
+      "check_success_ratio": 1,
+      "check_success_count": 6,
+      "ip:port": "190.214.10.54:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "218.50.2.102:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 62,
+      "check_success_ratio": 0.82258064516129,
+      "check_success_count": 51,
+      "ip:port": "88.199.164.135:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 16,
+      "check_success_ratio": 1,
+      "check_success_count": 16,
+      "ip:port": "168.181.240.134:65301",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 71,
+      "check_success_ratio": 0.97183098591549,
+      "check_success_count": 69,
+      "ip:port": "103.1.210.107:3128",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 24,
+      "check_success_ratio": 0.83333333333333,
+      "check_success_count": 20,
+      "ip:port": "82.204.242.26:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 23,
+      "check_success_ratio": 1,
+      "check_success_count": 23,
+      "ip:port": "87.228.60.242:8081",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 49,
+      "check_success_ratio": 0.97959183673469,
+      "check_success_count": 48,
+      "ip:port": "145.239.80.192:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 3,
+      "check_success_ratio": 0.66666666666667,
+      "check_success_count": 2,
+      "ip:port": "188.192.37.202:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 55,
+      "check_success_ratio": 0.87272727272727,
+      "check_success_count": 48,
+      "ip:port": "182.23.44.195:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "185.103.217.117:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 1,
+      "check_success_count": 2,
+      "ip:port": "197.246.8.158:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 36,
+      "check_success_ratio": 0.97222222222222,
+      "check_success_count": 35,
+      "ip:port": "116.197.132.35:53281",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 24,
+      "check_success_ratio": 0.95833333333333,
+      "check_success_count": 23,
+      "ip:port": "197.163.92.165:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 145,
+      "check_success_ratio": 1,
+      "check_success_count": 145,
+      "ip:port": "185.89.217.106:20000",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 6,
+      "check_success_ratio": 0.83333333333333,
+      "check_success_count": 5,
+      "ip:port": "190.90.23.158:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 16,
+      "check_success_ratio": 0.8125,
+      "check_success_count": 13,
+      "ip:port": "77.91.56.61:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 35,
+      "check_success_ratio": 0.82857142857143,
+      "check_success_count": 29,
+      "ip:port": "103.9.145.206:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 78,
+      "check_success_ratio": 0.85897435897436,
+      "check_success_count": 67,
+      "ip:port": "91.194.246.17:8085",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 5,
+      "check_success_ratio": 1,
+      "check_success_count": 5,
+      "ip:port": "198.199.105.118:8888",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 3,
+      "check_success_ratio": 1,
+      "check_success_count": 3,
+      "ip:port": "129.205.210.90:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 3,
+      "check_success_ratio": 1,
+      "check_success_count": 3,
+      "ip:port": "94.228.201.190:8085",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 319,
+      "check_success_ratio": 0.8307210031348,
+      "check_success_count": 265,
+      "ip:port": "177.5.219.112:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "144.217.80.96:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 23,
+      "check_success_ratio": 0.8695652173913,
+      "check_success_count": 20,
+      "ip:port": "185.85.32.28:53281",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 5,
+      "check_success_ratio": 1,
+      "check_success_count": 5,
+      "ip:port": "197.250.8.162:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "104.225.155.247:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 166,
+      "check_success_ratio": 1,
+      "check_success_count": 166,
+      "ip:port": "185.89.216.90:20000",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 24,
+      "check_success_ratio": 0.875,
+      "check_success_count": 21,
+      "ip:port": "176.12.119.159:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 1,
+      "check_success_count": 2,
+      "ip:port": "150.107.109.78:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 5,
+      "check_success_ratio": 1,
+      "check_success_count": 5,
+      "ip:port": "182.48.71.106:65301",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 152,
+      "check_success_ratio": 0.99342105263158,
+      "check_success_count": 151,
+      "ip:port": "134.213.208.193:3124",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 226,
+      "check_success_ratio": 0.92035398230088,
+      "check_success_count": 208,
+      "ip:port": "82.224.48.173:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 10,
+      "check_success_ratio": 1,
+      "check_success_count": 10,
+      "ip:port": "103.47.218.102:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 81,
+      "check_success_ratio": 0.93827160493827,
+      "check_success_count": 76,
+      "ip:port": "130.211.92.157:443",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 5,
+      "check_success_ratio": 1,
+      "check_success_count": 5,
+      "ip:port": "188.255.13.69:8081",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 37,
+      "check_success_ratio": 0.78378378378378,
+      "check_success_count": 29,
+      "ip:port": "103.205.134.182:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 0.5,
+      "check_success_count": 1,
+      "ip:port": "179.96.167.57:53281",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 125,
+      "check_success_ratio": 0.992,
+      "check_success_count": 124,
+      "ip:port": "54.187.52.159:3128",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 115,
+      "check_success_ratio": 0.69565217391304,
+      "check_success_count": 80,
+      "ip:port": "82.114.82.60:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 194,
+      "check_success_ratio": 0.98453608247423,
+      "check_success_count": 191,
+      "ip:port": "85.26.146.169:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 400,
+      "check_success_ratio": 1,
+      "check_success_count": 400,
+      "ip:port": "52.198.19.55:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 3,
+      "check_success_ratio": 1,
+      "check_success_count": 3,
+      "ip:port": "115.127.68.210:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 71,
+      "check_success_ratio": 0.8169014084507,
+      "check_success_count": 58,
+      "ip:port": "41.94.8.6:8000",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 422,
+      "check_success_ratio": 0.74881516587678,
+      "check_success_count": 316,
+      "ip:port": "210.211.18.140:808",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 243,
+      "check_success_ratio": 1,
+      "check_success_count": 243,
+      "ip:port": "139.59.72.193:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 230,
+      "check_success_ratio": 1,
+      "check_success_count": 230,
+      "ip:port": "52.36.87.149:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 1,
+      "check_success_ratio": 1,
+      "check_success_count": 1,
+      "ip:port": "185.141.11.182:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 1,
+      "check_success_count": 2,
+      "ip:port": "190.72.56.176:53281",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 151,
+      "check_success_ratio": 1,
+      "check_success_count": 151,
+      "ip:port": "147.75.208.108:53030",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 27,
+      "check_success_ratio": 0.77777777777778,
+      "check_success_count": 21,
+      "ip:port": "200.140.139.19:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 126,
+      "check_success_ratio": 0.9047619047619,
+      "check_success_count": 114,
+      "ip:port": "138.201.240.238:80",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 1,
+      "check_success_count": 2,
+      "ip:port": "125.162.29.48:3128",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 3,
+      "check_success_ratio": 1,
+      "check_success_count": 3,
+      "ip:port": "190.14.245.142:65103",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 2,
+      "check_success_ratio": 0.5,
+      "check_success_count": 1,
+      "ip:port": "178.62.114.153:8118",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 8,
+      "check_success_ratio": 1,
+      "check_success_count": 8,
+      "ip:port": "160.16.119.186:8118",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 8,
+      "check_success_ratio": 0.875,
+      "check_success_count": 7,
+      "ip:port": "182.16.169.20:8080",
+      "http_type": "HTTP"
+    },
+    {
+      "check_total_count": 48,
+      "check_success_ratio": 0.83333333333333,
+      "check_success_count": 40,
+      "ip:port": "103.67.197.113:8080",
+      "http_type": "HTTP"
+    }
+  ]
+}

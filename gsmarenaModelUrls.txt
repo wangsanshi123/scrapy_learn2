@@ -1,0 +1,6 @@
+vivo,v7,https://www.gsmarena.com/vivo_v7-8937.php
+vivo,x20_plus,https://www.gsmarena.com/vivo_x20_plus-8873.php
+oppo,A71,https://www.gsmarena.com/oppo_a71_(2018)-9051.php
+oppo,R11,https://www.gsmarena.com/oppo_r11-8644.php
+oppo,R7 lite,https://www.gsmarena.com/oppo_r7_lite-7553.php
+xiaomi,Redmi5,https://www.gsmarena.com/xiaomi_redmi_5-8768.php
